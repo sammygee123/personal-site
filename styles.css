@@ -8,7 +8,8 @@
     --cowboy: 'Rye', cursive;
     --regular: sans-serif;
     --fantasy: 'MedievalSharp', cursive;
-    --font: var(--regular);
+    --smelly:'Playfair Display', serif;
+    --font: var(--smelly);
     --sharp: 0;
     --soft: 10px;
     --round: 100px;
@@ -44,7 +45,7 @@ a {
 input {
     
     display: block;
-    margin: 20px 0 0;
+    margin: auto;
     width: 160px;
     box-sizing: border-box;
     padding: 4px 8px;
@@ -70,7 +71,7 @@ button {
     font-weight: bolder;
     box-sizing: border-box;
     display: block;
-    margin: 8px 0;
+    margin: auto;
     cursor: pointer;
     font-family: var(--font);
     width: 160px;
