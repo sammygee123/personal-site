@@ -1,28 +1,46 @@
-img{
-border: 15px solid;
-width: 30px;
-border-radius: 6px;
+.img{
+width: 300px;
+border-radius: 20px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+border: double grey 10px;
 }
+
 body{
     background-color: #DDD2B7;
 
 }
 input{
     display: block;
-    padding: 16px 16px 16px;
+    padding-left: 0px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 100px;
-    color: rgb(255, 153, 0);
     margin:auto;
+    border: double grey 5px;
+    background-color: #DDD2B7;
+    color: grey;
+    text-align: center;
 }
 button{
     display: block;
-    padding: 16px 16px 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 100px;
-    color: rgb(255, 153, 0);
     margin:auto;
+    border: double grey 5px;
+    background-color: #DDD2B7;
+    color: grey;
+    
+  
 }
 .text{
     text-align: center;
+    color: grey;
 }
 .lists{
     list-style: none;
