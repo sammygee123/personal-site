@@ -13,4 +13,5 @@ this includes;
 – google fonts
 – fontface
 – font awesome 
-<img width="735" alt="Screenshot 2022-07-22 at 22 12 52" src="https://user-images.githubusercontent.com/108677712/180569324-0bb34b23-b0de-4671-9886-506448568042.png">
+
+<img width="365" alt="Screenshot 2022-07-22 at 22 30 23" src="https://user-images.githubusercontent.com/108677712/180571300-6ae3271b-5762-423f-952e-2ce26d2a87d7.png">
